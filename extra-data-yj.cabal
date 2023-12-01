@@ -1,14 +1,16 @@
 cabal-version: 1.12
 
--- This file has been generated from package.yaml by hpack version 0.31.2.
+-- This file has been generated from package.yaml by hpack version 0.35.2.
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 9100d3bbb2575e3187a0b51916aaa878ab27fdfd349f109489296b5dc01785a4
+-- hash: f409ea8b95e114cc0607b5dbb57c2eec726cd9ae3cb5d9d7adb923ada38bf021
 
 name:           extra-data-yj
 version:        0.1.0.0
+synopsis:       Additional data types
 description:    Please see the README on GitHub at <https://github.com/YoshikuniJujo/extra-data-yj#readme>
+category:       Data
 homepage:       https://github.com/YoshikuniJujo/extra-data-yj#readme
 bug-reports:    https://github.com/YoshikuniJujo/extra-data-yj/issues
 author:         Yoshikuni Jujo
